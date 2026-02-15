@@ -1,8 +1,8 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Mist",
+        "link": "https://www.youtube.com/@MistOsu"
     },
     {
         "role": "admin",
@@ -21,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Astro",
+        "link": "https://www.youtube.com/channel/UCh8dPxALzmPyw77oiQ4S4Ww"
     }
 ]
